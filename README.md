@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj-thakur-513&show_icons=true&locale=en&theme=aura" alt="anuj-thakur-513" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-thakur-513&theme=aura" alt="anuj-thakur-513" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-thakur-513&theme=aura&" alt="anuj-thakur-513" /></p>
