@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **anujthakur2003.anuj@gmail.com**
+- 📫 How to reach me **anujthakur0103.anuj@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
