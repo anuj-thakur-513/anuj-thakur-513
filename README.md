@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anujthakur0103.anuj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17NdkQGXSfq5epXOx7x6W85YxS5oilOXK/view](https://drive.google.com/file/d/17NdkQGXSfq5epXOx7x6W85YxS5oilOXK/view)
+- 📄 Know about my experiences [Resume](https://pdfhost.io/v/9k4FGTMMR_RESUME)
 
 - 📝 I regularly write articles on [https://anujthakur.hashnode.dev/](https://anujthakur.hashnode.dev/)
 
