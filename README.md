@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.canva.com/design/DAFRtuJOul0/v6pjUjAuPytcdk7_ypFF4A/view?utm_content=DAFRtuJOul0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
 <h3 align="center">Android Developer | GDSC Technical Core Member | Android Facilitator GDSC | Chandigarh Group of Colleges, Landran'24</h3>
