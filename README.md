@@ -1,4 +1,4 @@
-![MasterHead]([url=https://ibb.co/rwXkGSS][img]https://i.ibb.co/CHSB5ZZ/twitter-cover.png[/img][/url])
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
 <h3 align="center">Android Developer | GDSC Technical Core Member | Android Facilitator GDSC | Chandigarh Group of Colleges, Landran'24</h3>
