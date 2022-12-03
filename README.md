@@ -6,8 +6,6 @@
 <img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=anujthakur2003">
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-thakur-513&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-thakur-513" /> </p>
-
 <p align="left"> <a href="https://twitter.com/anujthakur05" target="blank"><img src="https://img.shields.io/twitter/follow/anujthakur05?logo=twitter&style=for-the-badge" alt="anujthakur05" /></a> </p>
 
 - 🌱 I’m currently learning **DSA**
@@ -44,9 +42,3 @@
 <a href="http://www.github.com/anuj-thakur-513"><img src="https://activity-graph.herokuapp.com/graph?username=anuj-thakur-513&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/anuj-thakur-513" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-thakur-513&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<h3 align="left">Top Repositories:</h3>
-
-<div width="100%" align="center"><a href="https://github.com/anuj-thakur-513/News-Wiki" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuj-thakur-513&repo=News-Wiki&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/anuj-thakur-513/Task-List-App" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuj-thakur-513&repo=Task-List-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/anuj-thakur-513/StopWatch-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuj-thakur-513&repo=StopWatch-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
