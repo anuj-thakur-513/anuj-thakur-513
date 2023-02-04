@@ -1,7 +1,7 @@
 ![twitter cover](https://user-images.githubusercontent.com/82753410/201466773-32caebf5-297b-489c-aa78-f78d0d982985.png)
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
-<h3 align="center">Android Developer | GDSC Technical Core Member | Android Facilitator GDSC | Chandigarh Group of Colleges, Landran'24</h3>
+<h3 align="center">Android Developer | Web Developer | Web3 | GDSC Technical Core Member | Android Facilitator GDSC | Chandigarh Group of Colleges, Landran'24</h3>
 <h3 align = "center">📛My Badges</h3>
 <img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=anujthakur2003">
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
