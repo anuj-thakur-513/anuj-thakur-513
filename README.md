@@ -1,4 +1,4 @@
-![twitter cover]![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/82753410/224422156-5083331f-17e5-4a5b-8f03-fce4aac13831.png)
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/82753410/224422156-5083331f-17e5-4a5b-8f03-fce4aac13831.png)
 
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
