@@ -1,4 +1,4 @@
-![twitter cover](https://user-images.githubusercontent.com/82753410/201466773-32caebf5-297b-489c-aa78-f78d0d982985.png)
+![twitter cover](![Uploading Black Technology LinkedIn Banner.png…])
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
 <h3 align="center">Android Developer | Web Developer | Web3 | GDSC Technical Core Member | Android Facilitator GDSC | Chandigarh Group of Colleges, Landran'24</h3>
