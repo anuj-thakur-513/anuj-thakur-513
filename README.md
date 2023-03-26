@@ -16,6 +16,8 @@
 
 - 📄 [Resume](https://drive.google.com/file/d/1_CWKO6vzI3zK2hU2XJyD877xhBvNOq6r/view?usp=share_link)
 
+- 🌐 [Portfolio](https://anujthakur.netlify.app/)
+
 - 📝 I regularly write articles on [https://anujthakur.hashnode.dev/](https://anujthakur.hashnode.dev/)
 
 - ⚡ Fun fact **I think I am Funny**
