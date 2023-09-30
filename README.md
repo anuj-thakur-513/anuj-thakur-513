@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anujthakur05" target="blank"><img src="https://img.shields.io/twitter/follow/anujthakur05?logo=twitter&style=for-the-badge" alt="anujthakur05" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and DSA**
+- 🌱 I’m currently learning **Backend Dev and DSA**
 
 - 💬 Ask me about **Android**
 
