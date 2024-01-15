@@ -1,9 +1,8 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/82753410/224423018-31c90511-8f40-4ccd-ad7d-c48c614e8284.png)
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
-<h3 align="center">Android Developer | Web Developer | Web3 | Ex-GDSC Technical Core Member (Android Facilitator) | Ex-HackerEarth Campus Ambassador | Chandigarh Group of Colleges, Landran'24</h3>
-<h3 align = "center">📛My Badges</h3>
-<img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=anujthakur2003">
+<h3 align="center">Android Developer | Web Developer | Ex-GDSC Technical Core Member (Android Facilitator) | Ex-HackerEarth Campus Ambassador | Chandigarh Group of Colleges, Landran'24</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <a href="https://twitter.com/anujthakur05" target="blank"><img src="https://img.shields.io/twitter/follow/anujthakur05?logo=twitter&style=for-the-badge" alt="anujthakur05" /></a> </p>
