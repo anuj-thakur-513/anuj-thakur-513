@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-End Dev and DSA**
 
-- 💬 Ask me about **Android**
+- 📝 Project I'm currently working on **[Movies GPT](https://moviesgpt-anuj-513.vercel.app/)**
 
 - 📫 How to reach me **anujthakur0103.anuj@gmail.com**
 
