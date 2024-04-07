@@ -1,15 +1,15 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/82753410/224423018-31c90511-8f40-4ccd-ad7d-c48c614e8284.png)
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
-<h3 align="center">Android Developer | Web Developer | Ex-GDSC Technical Core Member (Android Facilitator) | Ex-HackerEarth Campus Ambassador | Chandigarh Group of Colleges, Landran'24</h3>
+<h3 align="center">Backend Developer | Ex-GDSC Technical Core Member (Android Facilitator) | Ex-HackerEarth Campus Ambassador | Chandigarh Group of Colleges, Landran'24</h3>
 
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI1MDk2MjIsIm5iZiI6MTcxMjUwOTMyMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA3VDE3MDIwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0NzYxN2VkMGZhZDZkYjBiMDkzZjU2YzdkYWQ5ZWZhOTg3ZDMxZWVmNzMyODcyYjkwYTViZmEyMWRlMThkMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.53l158wCBolz2iAIap_idV9G35n4m53OCRIRdmSf_cI">
 
 <p align="left"> <a href="https://twitter.com/anujthakur05" target="blank"><img src="https://img.shields.io/twitter/follow/anujthakur05?logo=twitter&style=for-the-badge" alt="anujthakur05" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End Dev and DSA**
+- 🌱 I’m currently learning **Back-End Dev and DSA**
 
-- 📝 Project I'm currently working on **[Movies GPT](https://moviesgpt-anuj-513.vercel.app/)**
+- 📝 Project I'm currently working on **[YT-Backend along with Tweets Functionality](https://github.com/anuj-thakur-513/yt-twitter)**
 
 - 📫 How to reach me **anujthakur0103.anuj@gmail.com**
 
@@ -17,9 +17,9 @@
 
 - 🌐 [Portfolio](https://anujthakur.netlify.app/)
 
-- 📝 I regularly write articles on [https://anujthakur.hashnode.dev/](https://anujthakur.hashnode.dev/)
+- 📝 I sometimes write articles on [https://anujthakur.hashnode.dev/](https://anujthakur.hashnode.dev/)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact: **I touched grass today 🌳!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
