@@ -1,4 +1,6 @@
-![Black Technology LinkedIn Banner](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI1MDk2MjIsIm5iZiI6MTcxMjUwOTMyMiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA3VDE3MDIwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzY2FjYmVkODZhNzY5MGNhYjgxYjA3MDJhN2Y1OGRiZTNkNDk3MGNjMWNhOTFkYTk3Njc3MmViOWYzNjc3MWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0jpOZSvjSWPxU2mOoZZMmAHtt75qSQWuTiFBBV0n_a4)
+
+![github banner](https://github.com/anuj-thakur-513/anuj-thakur-513/assets/82753410/c74e2f92-baf8-4c0f-a9a8-b92c550c3cb0)
+
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
 <h3 align="center">Backend Developer | Ex-GDSC Technical Core Member (Android Facilitator) | Ex-HackerEarth Campus Ambassador | Chandigarh Group of Colleges, Landran'24</h3>
