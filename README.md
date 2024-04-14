@@ -1,4 +1,4 @@
-
+![image](https://github.com/anuj-thakur-513/anuj-thakur-513/assets/82753410/47b00d5f-e7db-4911-bb08-3748facf3f33)
 ![github banner](https://github.com/anuj-thakur-513/anuj-thakur-513/assets/82753410/c74e2f92-baf8-4c0f-a9a8-b92c550c3cb0)
 
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anujthakur0103.anuj@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1_CWKO6vzI3zK2hU2XJyD877xhBvNOq6r/view?usp=share_link)
+- 📄 [Resume](https://drive.google.com/file/d/1JmIc5tXjA9TUAZSrU-vK8mCGMCWAkMsD/view?usp=drive_link)
 
 - 🌐 [Portfolio](https://anujthakur.netlify.app/)
 
