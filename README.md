@@ -1,4 +1,3 @@
-![image](https://github.com/anuj-thakur-513/anuj-thakur-513/assets/82753410/47b00d5f-e7db-4911-bb08-3748facf3f33)
 ![github banner](https://github.com/anuj-thakur-513/anuj-thakur-513/assets/82753410/c74e2f92-baf8-4c0f-a9a8-b92c550c3cb0)
 
 
