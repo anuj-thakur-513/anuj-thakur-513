@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Back-End Dev and DSA**
 
-- 📝 Project I'm currently working on **[YT-Backend along with Tweets Functionality](https://github.com/anuj-thakur-513/yt-twitter)**
+- 📝 Project I'm currently working on **[Discord Bot for URL Shortening](https://github.com/anuj-thakur-513/URL-Shortener-Discord-Bot)**
 
 - 📫 How to reach me **anujthakur0103.anuj@gmail.com**
 
