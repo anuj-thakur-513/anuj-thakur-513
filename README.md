@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Back-End Dev and DSA**
 
-- 📝 Project I'm currently working on **[ScaleChat-Backend (Chat App with PROD level scalable web sockets using Redis)](https://github.com/anuj-thakur-513/ScaleChat)**
+- 📝 Recent Project **[ScaleChat-Backend (Chat App with PROD level scalable web sockets using Redis)](https://github.com/anuj-thakur-513/ScaleChat)**
 
 - 📫 How to reach me **anujthakur0103.anuj@gmail.com**
 
