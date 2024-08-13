@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anuj Thakur</h1>
-<h3 align="center">Backend Developer | Ex-GDSC Technical Core Member (Android Facilitator) | Ex-HackerEarth Campus Ambassador | Chandigarh Group of Colleges, Landran'24</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/anuj-thakur-513/anuj-thakur-513/assets/82753410/9b3fa714-640d-4f9b-85ab-6424b60ea11f">
 
