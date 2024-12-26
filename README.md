@@ -16,7 +16,7 @@ I'm a Full-Stack Developer with a passion for Backend Development. I always aim 
 ## 👨🏻‍💻 Current Learning Goals
 
 - Get into complex backend topics
-- Master DevOps in Depth
+- Learning GoLang
 
 
 ## 🐶 Lets Connect
